@@ -6,7 +6,7 @@ A self-hosted web app that lets multiple devices on the same network play the sa
 
 ---
 
-## Why
+## Qn is Why ? I mean why not
 
 Imagine pressing play on two laptops at the exact same instant — but not by clicking with your reflexes. By having a server coordinate them down to the millisecond, so the two speakers behave like one wide source. That's the goal.
 
